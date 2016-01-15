@@ -15,3 +15,6 @@ chmod +x /usr/local/bin/docker-compose
 
 Step 5:
 docker-compose up -d
+
+Step 6:
+Go make Coffee enjoy
